@@ -5,3 +5,30 @@
     line-height: 1;
     background-color: rgb(14, 3, 28) !important;
 }
+
+.app-ltr-1af5xyq .keen-slider__slide{
+    min-width: 340px !important;
+    max-width: 340px !important;
+}
+
+
+.app-ltr-1af5xyq .keen-slider__slide img{
+    width:100% !important;
+    height:170px !important;
+    object-fit:cover !important;
+    border-radius:14px !important;
+}
+
+
+.app-ltr-1af5xyq.keen-slider{
+    gap:18px !important;
+}
+
+
+.app-ltr-zitybv{
+    padding:30px 80px 35px !important;
+}
+
+.app-ltr-1e49d54{
+    margin-bottom:22px !important;
+}
