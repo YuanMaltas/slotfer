@@ -51,3 +51,14 @@
 }
 
 }
+html,
+body,
+#root,
+[data-mj="root-layout"],
+[data-mj="page-content"]{
+    background:#080010 !important;
+}
+
+[data-mj="page-content"] section{
+    background:#080010 !important;
+}
