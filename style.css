@@ -56,3 +56,22 @@ body,
 [data-mj="page-content"] section{
     background:#080010 !important;
 }
+
+
+@media (max-width:768px){
+
+[data-mj="widget-fixed-image-banner-container"]{
+    width:88% !important;
+    margin:0 auto !important;
+}
+
+[data-mj="widget-fixed-image-banner-container"] img{
+    width:100% !important;
+    height:auto !important;
+    object-fit:contain !important;
+
+    transform:scale(.90) !important;
+    transform-origin:center !important;
+}
+
+}
