@@ -132,14 +132,13 @@ body,
         left: 0;
         right: 0;
         height: 40%;
-        background: linear-gradient(180deg, rgba(255,255,255,0.055) 0%, transparent 100%);
         border-radius: 13px 13px 0 0;
         pointer-events: none;
         z-index: 5;
     }
 
     .keen-slider__slide:hover {
-        border-color: rgba(120,100,255,0.30);
+    
         box-shadow:
             0 22px 44px rgba(0,0,0,0.60),
             0 0 26px rgba(100,80,255,0.14);
