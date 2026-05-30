@@ -273,4 +273,22 @@ body,
     left: 0px;
     background-color: rgba(26, 26, 36, 0.8);
     backdrop-filter: blur(4px);
-    display: none !important}
+    display: none !important;}
+.app-ltr-1utwn7g {
+    border: 0px;
+    text-decoration: none;
+    text-transform: inherit;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+    font-family: Rubik;
+    background: rgb(29,240,244) !important;
+    transition: background 0.3s, color 0.3s;
+    color: rgb(37, 26, 52);
+    min-height: 40px;
+    padding: 4px 24px;
+}
