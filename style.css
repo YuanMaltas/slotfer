@@ -292,3 +292,11 @@ body,
     min-height: 40px;
     padding: 4px 24px;
 }
+a[data-mj="logo"] {
+    overflow: visible !important;
+}
+
+a[data-mj="logo"] img {
+    transform: scale(1.6);
+    transform-origin: left center;
+}
